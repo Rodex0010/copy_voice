@@ -1,0 +1,9 @@
+python-telegram-bot>=20
+
+
+torch==2.8.0
+torchaudio==2.8.0
+
+omnivoice
+
+voicetut-tts
