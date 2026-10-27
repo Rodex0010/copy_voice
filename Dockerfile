@@ -11,4 +11,4 @@ RUN pip install --no-cache-dir torch==2.8.0 torchaudio==2.8.0 --index-url https:
 
 COPY . .
 
-CMD ["python", "bot_buttons.py"]
+CMD ["python", "bot.py"]
